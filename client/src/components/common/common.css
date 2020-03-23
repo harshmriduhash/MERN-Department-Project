@@ -1,0 +1,115 @@
+.nav{
+    position: fixed;
+    left: 0;
+    right:0;
+    top:0;
+    padding: 5px;
+    background: rgb(76, 74, 77);
+    color: #fff;
+    z-index: 1;
+}
+
+.collapsible-nav-icon{
+    background:#fff;
+    width:40px;
+    height:3px;
+    margin:5px;
+}
+
+.nav_item_right{
+    padding-right:32px;
+}
+
+.navbar-container{
+    background: #fff;
+    position: fixed;
+    right: 0;
+    width: 40%;
+    margin-top:40px;
+    border-radius: 3px;
+    border-bottom: solid 2px #f2f2f2;
+    border-left: solid 2px #f2f2f2;
+    z-index: 2;
+}
+
+ul.nav-sidebar-items.nav-sidebar-item{
+    font-weight: 500;
+    list-style: none;
+    color: white;
+}
+
+.nav-top{
+    width:100%;
+}
+
+.nav-sidebar-items{
+    list-style-type: none;
+    padding: 5px 0px 0px 16px;
+}
+
+.nav-sidebar-item-divider{
+    margin-left: -18px;
+}
+
+.profile-top-bar{
+    height: 270px;
+}
+
+
+.lets-go-appbar{
+    margin-top:50px;
+    padding:12px 12px;
+    color:rgba(0,0,0,0.4);
+    background: #fff;
+    border-bottom:solid 2px;
+}
+
+.appbar-material-icos{
+    font-size: 36px;
+}
+
+.active-appbar-item{
+    color:#6800B8;
+    border-bottom: 2px solid #6800B8;
+}
+
+
+.nav-sidebar-item{
+    padding: 8px 0px;
+}
+
+
+.nav_item{
+margin:0px 16px;
+color:#fff;
+}
+
+
+.notification-item{
+    padding:8px 16px;
+}
+
+.notification-menu{
+    position: fixed !important;
+    top: 50px !important;
+    left: unset !important;
+    right: 6% !important;
+    transform: unset !important;
+    height: 80vh;
+    overflow: auto;
+}
+
+.notif-grammer{
+    font-size: 14px;
+}
+
+.isAlert{
+    background: red;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    position: fixed;
+    top: 16px;
+}
+
+

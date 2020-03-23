@@ -1,0 +1,8 @@
+{
+    "name": "letsgo",
+    "description": "Real time app",
+    "repository": "https://github.com/harshmriduhash/Department-MERN-project.git",
+    "logo":"https://pbs.twimg.com/profile_images/819995692810862592/Rxibldpo.jpg",
+    "keywords":["node", "express"],
+    "image":"heroku/node js"
+}

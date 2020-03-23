@@ -1,0 +1,62 @@
+.container .login-form-container{
+    background: #6800B8;
+    padding: 24px;
+    margin-top: 50px;
+    color:#180101;
+}
+
+
+
+.form-header{
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 8px;
+}
+.auth-submit-button{
+    background: rgba(104, 0, 184, 0);
+    color: #d31111;
+    font-weight: bold;
+    margin-top: 16px;
+    width: 100%;
+}
+
+.form-container{
+    margin: 8px 0px;
+    padding: 24px;
+    background: #fff;
+    border-radius: 4px;
+}
+
+.login-intro-text{
+    padding:16px;
+    background: rgba(0,0,0,0.05)
+}
+
+.login-form-container{
+    margin-top:90px;
+    width: 90%;
+}
+
+.or-sign-up-btn{
+    margin-left:8px;
+    padding:2px 24px;
+    background: rgb(0, 184, 123);
+    color:#fff;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.login-form-container input:focus{
+    background: rgba(0,0,0,0.05)
+}
+
+@media screen and (min-width: 600px) {
+    .container .login-form-container{
+        width:50%;
+    }
+}
+
+
+.select-department-item{
+    width:100%;
+    margin: 8px 0px;
+    height: 40px;
+}

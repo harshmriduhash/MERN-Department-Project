@@ -1,0 +1,38 @@
+.request-container{
+    margin: 90px 32px 0px 32px;
+}
+
+
+.request-item-container{
+    padding: 16px;
+    border: solid 1px rgba(0,0,0,0.1);
+    margin-top: 8px;
+    background: rgba(0,0,0,0.02);
+    border-radius: 3px;
+}
+
+
+.request-item-title{
+    font-size: 12px;
+    font-weight: bold;
+    color:rgba(0,0,0,0.4)
+}
+
+.dept-info{
+    margin: 0px 16px;
+}
+
+
+.request-text-box{
+    padding: 12px 0px;
+}
+
+.request-item-top{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.request-item-footer{
+    font-size: 12px;
+    font-weight: bold;
+}

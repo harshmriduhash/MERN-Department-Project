@@ -1,0 +1,94 @@
+.common-pointer{
+  cursor: pointer;
+}
+
+
+.text-bold{
+  font-weight: bold;
+}
+
+.text-24{
+  font-size: 24px;
+}
+
+.text-14{
+  font-size:14px;
+}
+
+.form_label{
+  margin:0px;
+  font-size: 14px;
+  padding-left:12px;
+}
+
+*:focus {
+  outline: none !important;
+  border-color: none !important;
+  box-shadow: none !important;
+}
+.form-group{
+  background: rgba(0,0,0,0.05) !important;
+}
+.input-field{
+  border-radius: 0px;
+  border:none;
+  border-bottom:solid 1px rgba(0,0,0,0.5);
+  background:none;
+}
+
+
+.form-container{
+  padding: 24px 0px !important;
+}
+
+
+
+.form_container{
+  padding: 16px 0px;
+}
+
+
+.home-page-container{
+  padding: 16px 8px;
+}
+
+
+
+.modal .modal-dialog{
+  margin: 0;
+}
+
+.modal .modal-content{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    bottom: 0;
+    top: 0px;
+}
+
+@media only screen and (min-width: 600px) {
+  .login-form-container {
+    width:50% !important;
+  }
+
+  .request-item-container{
+    width: 50%;
+  }
+
+  .request-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+
+textarea{
+  font-size: 16px;
+}
+
+.error-info{
+  color:red;
+  font-size: 12px;
+}
